@@ -6,7 +6,7 @@ mcdougallzachery@gmail.com | Springville, UT | https://www.linkedin.com/in/zache
 
 About
 ---------
-*I am a passionate Data Scientist with proven track record of process improvement within demanding operations environments. Outside of my work hours I am pursuing an MSBA and learning important technologies such as R, Python, and SQL. My favorite class so far has been Statistics and Predictive Analytics. I found modeling to be a fascinating and powerful tool. I believe data driven decisions are almost always superior to decisions based on gut feel alone. I love turning complex datasets into actionable insights.*
+*I am passionate about data and have a proven track record of process improvement within demanding operations environments. Outside of my work hours I am pursuing an MSBA and learning important technologies such as R, Python, and SQL. My favorite class so far has been Statistics and Predictive Analytics. I found modeling to be a fascinating and powerful tool. I believe data driven decisions are almost always superior to decisions based on gut feel alone. I love turning complex datasets into actionable insights.*
 
 Education
 ---------
