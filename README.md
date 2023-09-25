@@ -6,7 +6,7 @@ mcdougallzachery@gmail.com | Mapleton, UT | https://www.linkedin.com/in/zachery-
 
 About
 ---------
-As an experienced data professional with a diverse background in operations management and business analytics, I have a comprehensive understanding of how data can be used to optimize business processes and drive strategic decision-making. 
+I have a comprehensive understanding of how data can be used to optimize business processes and drive strategic decision-making. 
 
 With my advanced degree in Business Analytics I have the technical expertise needed to turn complex data into valuable insights. My proficiency in R, SQL, and Python allows me to work with large datasets, perform advanced analytics, and develop machine learning models. 
 
