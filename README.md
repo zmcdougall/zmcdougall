@@ -8,10 +8,6 @@ About
 ---------
 I have a comprehensive understanding of how data can be used to optimize business processes and drive strategic decision-making. 
 
-With my advanced degree in Business Analytics I have the technical expertise needed to turn complex data into valuable insights. My proficiency in R, SQL, and Python allows me to work with large datasets, perform advanced analytics, and develop machine learning models. 
-
-My experience with Dundas BI, Power BI, Tableau, and R Markdown enable me to create compelling data visualizations that communicate complex data in a simple and meaningful way. Additionally, my knowledge of machine learning techniques makes me an asset to any organization looking to harness the power of predictive analytics. With my skills and experience, I am well-equipped to tackle any analytics challenge and help organizations make data-driven decisions.
-
 Education
 ---------
 
